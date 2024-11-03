@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # PostgreSQL Overview
 
 ## What is PostgreSQL?
